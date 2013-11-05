@@ -9,6 +9,8 @@ Its based off an old reddit post I saw (not movie barcode) but I can't find righ
 ##Example
 Note: This example image is much smaller than the actual images it can produce. The script will autoscale the images to whatever dimensions and DPI you give it, so if you create a large enough poster you'll be able to clearly see every frame created.
 
+![v2p example](https://raw.github.com/giveitupforjoel/video2poster/master/examples/h_o_small.png?raw=true)
+
 ##Notes
 
 Video2Poster is a proof-of-concept. It has only been tested on windows with python 2.7 and has several required dependencies.
